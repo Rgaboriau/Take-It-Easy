@@ -4,7 +4,7 @@ Take it easy is a board game. To keep is simple, you have to position a random c
 - Line not complete = 0
 - Line complete = number of tile on the line time the number of the line
 
-![Alt text](Data/photos/take-it-easy-ravensburger-ipad-tablette-enfant-application-la-souris-grise-1 - copie.jpeg?raw=true "View")
+![Alt text](https://github.com/Rgaboriau/Take-It-Easy/blob/main/Data/photos/take-it-easy-ravensburger-ipad-tablette-enfant-application-la-souris-grise-1%20-%20copie.jpeg?raw=true "View")
 
 
 Objective : create an application that immediately count the point from photo or with the camera (like a QR code)
